@@ -2,6 +2,9 @@
   "name": "nintendo",
   "version": "0.1.0",
   "private": true,
+  "repository": {
+    "url": "git@github.com:Trail3lazer/nintendo-clone.git"
+  },
   "dependencies": {
     "react": "^16.9.0",
     "react-dom": "^16.9.0",
