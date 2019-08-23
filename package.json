@@ -6,6 +6,8 @@
     "url": "git@github.com:Trail3lazer/nintendo-clone.git"
   },
   "dependencies": {
+    "@material-ui/core": "^4.3.2",
+    "@material-ui/styles": "^4.3.0",
     "react": "^16.9.0",
     "react-dom": "^16.9.0",
     "react-scripts": "3.1.1"
